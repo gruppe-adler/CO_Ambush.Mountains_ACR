@@ -1,7 +1,7 @@
-# CO_Template.Stratis
-Gruppe Adler Coop Template
+# CO_Ambush.Mountains_ACR
+Operation Ambush
 
-Ziel dieser Vorlage ist es, eine standardisierte Plattform für unsere Coop Missionen zu bieten und dem Missionsersteller den Großteil der Voreinstellungsarbeit abzunehmen.
+Die Taliban planen einen Hinterhalt auf russische Truppen.
 
 Weitere Informationen, Anleitung, Features gibt es im
 # [WIKI](https://github.com/gruppe-adler/CO_Template.VR/wiki)
