@@ -10,4 +10,5 @@ class Loadouts {
     #include "US.hpp"
     #include "RUS.hpp"
     #include "Rebels.hpp"
+    #include "Tal.hpp"
 };

@@ -1,7 +1,7 @@
 //ÜBER DIE MISSION =============================================================
-author = "Name für Gruppe Adler";                                               //Missionsersteller (Du)
-onLoadName = "COOP TEMPLATE";                                                   //Name der Mission
-onLoadMission = "";                                                             //Beschreibung der Mission (wird im Ladebildschirm unterhalb des Ladebildes angezeigt)
+author = "Slant für Gruppe Adler";                                               //Missionsersteller (Du)
+onLoadName = "Bait and Strike";                                                   //Name der Mission
+onLoadMission = "Die Taliban haben einen Plan ausgeheckt...";                                                             //Beschreibung der Mission (wird im Ladebildschirm unterhalb des Ladebildes angezeigt)
 loadScreen = "data\loadpic.paa";                                                //Ladebild
 
 
