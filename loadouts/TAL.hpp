@@ -197,12 +197,16 @@ class Taliban {
       class I_Soldier_SL_F: I_Soldier_F {
         uniform = "LOP_U_AM_Fatigue_01"
         primaryWeapon = "rhs_weap_ak74m_gp25";
-        backpack = "tf_rt1523g"
+        backpack = "rhs_sidor"
         addItemsToBackpack[] = {
           LIST_2("rhs_mag_rdg2_white"),
           LIST_4("rhs_VG40MD_Green"),
           LIST_4("rhs_VG40MD_Red"),
           LIST_4("rhs_VG40MD_White")
+        };
+        addItemsToVest[] = {
+          LIST_6("rhs_30Rnd_545x39_AK"),
+          LIST_2("rhs_mag_rgd5")
         };
       };
 
