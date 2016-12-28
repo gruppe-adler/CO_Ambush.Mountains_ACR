@@ -189,15 +189,15 @@ class Taliban {
 
       //Rifleman (AT)
       class I_soldier_LAT_F: I_Soldier_F {
-        uniform = "LOP_U_AM_Fatigue_04"
+        uniform = "LOP_U_AM_Fatigue_04";
         secondaryWeapon = "launch_RPG7_F";
       };
 
       //Squad Leader
       class I_Soldier_SL_F: I_Soldier_F {
-        uniform = "LOP_U_AM_Fatigue_01"
+        uniform = "LOP_U_AM_Fatigue_01";
         primaryWeapon = "rhs_weap_ak74m_gp25";
-        backpack = "rhs_sidor"
+        backpack = "rhs_sidor";
         addItemsToBackpack[] = {
           LIST_2("rhs_mag_rdg2_white"),
           LIST_4("rhs_VG40MD_Green"),
